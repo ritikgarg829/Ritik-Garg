@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **JAVA , REACT ,JAVASCRIPT , PHP**
+- 💬 Ask me about **JAVA , REACT , JAVASCRIPT , PHP**
 
 - 📫 How to reach me **ritikgarg1221705@gmail.com**
 
