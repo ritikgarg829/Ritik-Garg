@@ -1,5 +1,5 @@
-[![MasterHead](https://wallpapercave.com/wp/wp8411076.jpg)//
-)](https://ritikgarg.io)
+
+![Image of me](https://github.com/ritikgarg829/ritikgarg829/blob/main/photo-1544256718-3bcf237f3974.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Ritik Garg</h1>
 <h3 align="center">A Passionate Full Stack Developer </>.</h3>
 
