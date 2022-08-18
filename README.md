@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Garg</h1>
 <h3 align="center">A Passionate Full Stack Developer </>.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikgarg829&label=Profile%20views&color=0e75b6&style=flat" alt="ritikgarg829" /> </p>
 
